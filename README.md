@@ -1,2 +1,2 @@
 # Image-Gallary
-[link](https://github.com/shubham7a/Image-Gallary.git)
+[link](https://shubham7a.github.io/Image-Gallary/)
